@@ -1,0 +1,22 @@
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: darkblue;
+}
+
+img {
+    width: 300;
+    height: 300;
+    position: relative;
+}
+
+button {
+    border: 3cap;
+    border-radius: 1cm;
+}
+
+input {
+    content: attr(color);
+}
